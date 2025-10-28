@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dockerfile và docker-compose (không cần copy vào image)
+Dockerfile*
+docker-compose*.yml
+
+# Test files và notebooks (nếu có)
+tests/
+*.ipynb
+
+# Chỉ loại bỏ ảnh TRONG thư mục gốc, KHÔNG loại trong pages/
+/*.jpg
+/*.png
+/*.jpeg
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
