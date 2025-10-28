@@ -2,14 +2,12 @@
 
 Ứng dụng **Neural Style Transfer** cho phép bạn tạo ra những bức ảnh nghệ thuật bằng cách kết hợp **nội dung (content)** của một ảnh và **phong cách (style)** của một ảnh khác — tất cả được đóng gói trong **Docker container**, dễ dàng chạy ở bất kỳ đâu.
 
-Ảnh nội dung:
-![alt text](unnamed.jpg)
+<p align="center">
+  <img src="unnamed.jpg" alt="Ảnh nội dung" height="220">
+  <img src="pr59VCF4.jpg" alt="Ảnh phong cách" height="220">
+  <img src="neural_style_output.png" alt="Kết quả" height="220">
+</p>
 
-Ảnh phong cách:
-![alt text](pr59VCF4.jpg)
-
-Kết quả Neural Style Transfer:
-![alt text](neural_style_output.png)
 
 
 ---
