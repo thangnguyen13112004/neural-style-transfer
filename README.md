@@ -30,6 +30,10 @@
 Ứng dụng chạy trực tiếp trên Docker, không cần cài môi trường Python thủ công.  
 Chỉ cần một dòng lệnh duy nhất là bạn đã có thể chạy webapp AI này ngay trên máy tính của mình.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ---
 
 ## 🐳 2. Cách cài đặt và chạy bằng Docker Hub
